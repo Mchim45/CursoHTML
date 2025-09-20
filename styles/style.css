@@ -27,6 +27,7 @@ body{
 
 a{
     color: var(--cor-secundaria);
+    box-sizing: border-box;
 }
 
 .titulo-destaque{
@@ -148,6 +149,11 @@ a{
     .rodape{
         width: 100%;
         box-sizing: border-box;
-    } 
+    }
+    
+    .apresentacao__links{
+        width: 100%;
+        box-sizing: border-box;
+    }
     
 }
