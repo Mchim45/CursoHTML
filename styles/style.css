@@ -113,7 +113,7 @@ a{
 }
 
 .apresentacao__imagem{
-    width: 50%;
+    width: 40%;
 }
 
 .rodape{
@@ -141,6 +141,13 @@ a{
     }
 
     .apresentacao__conteudo{
-        width: auto;
+        width: 100%;
+        box-sizing: border-box;
+    
+    }
+    .rodape{
+        width: 100%;
+        box-sizing: border-box;
     } 
+    
 }
